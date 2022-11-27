@@ -1,1 +1,1 @@
-# Dice-Game
+# Dice-Game created in C language
